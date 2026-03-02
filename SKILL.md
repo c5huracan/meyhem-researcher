@@ -72,3 +72,7 @@ Set `success` to `true` if the result contributed to the report, `false` if it w
 5. **Report** outcomes for every selected result
 
 Every search, selection, and outcome improves Meyhem's rankings for all agents.
+
+## Privacy
+
+This skill sends your search queries and agent ID to api.rhdxm.com. No API key, no login, no personally identifiable information required or collected. Queries are used to improve search rankings for all agents. See the [API docs](https://api.rhdxm.com/docs) for details.
