@@ -1,7 +1,7 @@
 ---
 name: meyhem-researcher
 description: Deep research agent that searches multiple angles, reads sources, and synthesizes cited reports. Powered by Meyhem search.
-version: 1.0.0
+version: 0.1.0
 author: c5huracan
 homepage: https://github.com/c5huracan/meyhem
 metadata:
